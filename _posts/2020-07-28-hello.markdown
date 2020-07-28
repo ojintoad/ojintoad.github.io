@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Hello"
+date:   2020-07-28 21:12:50 -0400
+categories: post
+---
+This is not terrible, but also it could be better.
+
+First thing I'd probably do is make a script to generate
+a standard post.
